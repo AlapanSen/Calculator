@@ -1,6 +1,7 @@
 # Calculator
 
 # Calculator Website
+![Screenshot 2023-07-20 161545](https://github.com/AlapanSen/Calculator/assets/94228448/060791ef-441a-49a2-863e-7fe8393a5496)
 
 
 ## Description
